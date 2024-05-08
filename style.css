@@ -1,7 +1,6 @@
 body {
   background: #161616;
   margin: 0;
-
   height: 100dvh;
   display: grid;
   place-content: center center;
